@@ -1,0 +1,22 @@
+{
+  "name": "finalproject_formrecognizerapi_azure",
+  "version": "1.0.0",
+  "description": "connecting to Form Recognizer Api by Azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsebast2/FinalProject_FormRecognizerAPI_Azure.git"
+  },
+  "author": "Bentic Sebastian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsebast2/FinalProject_FormRecognizerAPI_Azure/issues"
+  },
+  "homepage": "https://github.com/bsebast2/FinalProject_FormRecognizerAPI_Azure#readme",
+  "dependencies": {
+    "@azure/ai-form-recognizer": "^3.0.0"
+  }
+}
